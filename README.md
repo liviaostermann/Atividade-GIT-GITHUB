@@ -38,7 +38,7 @@ Aluna: Lívia Ostermann - INFO22
 17- Utilize o Github Pages para hospedagem da página HTML que você criou.
 18- Crie um README para seu repositório. Coloque o nome da dupla, explique do que se trata o projeto. Crie uma lista de tarefas já concluídas. Adicione instruções de como executar o projeto, link para visualizar o site hospedado.
 
-**Link:** ()
+**Link:** (https://liviaostermann.github.io/Atividade-GIT-GITHUB/)
 
 
 
